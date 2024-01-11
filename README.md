@@ -1,4 +1,4 @@
-**Enhanced News Classification Project**
+**Machine Learning News Classification Project**
 
 **Overview**
 This project develops a machine learning model capable of classifying news articles as real or fake. Leveraging a substantial dataset from Kaggle, the model aims to address the critical issue of misinformation in media.
