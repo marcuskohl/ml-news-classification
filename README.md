@@ -18,9 +18,11 @@ The dataset used in this project can be found on Kaggle: Fake News Classificatio
 
 **How to Use**
 
-- Clone the repository to your local machine
+- Download dataset from Kaggle
+- Clone the GitHub repository to your local machine
+- Move downloaded dataset to project directory 
 - Navigate to the project directory and run the Jupyter Notebook
-- Open 'news_classifier.ipynb' and execute to run the model
+- Open 'classifier.ipynb' and execute to run the model
 
 **Contributing**
 
